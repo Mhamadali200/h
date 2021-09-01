@@ -36,7 +36,7 @@ module.exports = {
 \`${+}unban\` - \`${+}slowmode\` - \`${+}giveaway\`
 
 **Links**
-[support](https://discord.gg/x2jzF8Gt3K)    -    [invite](https://discord.com/api/oauth2/authorize?client_id=841858854257164318&permissions=8&scope=bot)
+[support](/)    -    [invite](/)
 `)
 
    .setFooter(`${message.author.username}#${message.author.discriminator}`, message.member.user.displayAvatarURL({ dynamic: true }))
